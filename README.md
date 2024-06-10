@@ -46,5 +46,18 @@ This project aims to automate repetitive tasks such as sending emails, renaming 
 ## Usage
 
 Run the script:
-```bash
-python automation_tool.py
+bash
+```python automation_tool.py```
+
+## Task Automation Menu
+- Send Email
+>> Enter SMTP server, port, sender email, password, recipient email, subject, and body to send an email.
+
+- Rename Files
+>> Enter the directory path, old pattern, and new pattern to rename files in a specified directory.
+
+- Update Spreadsheet
+>> Enter the file path, sheet name, cell, and new value to update a cell in an Excel spreadsheet.
+
+
+
